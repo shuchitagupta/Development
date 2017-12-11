@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2014-11-22T17:46:54Z" finished-at="2014-11-22T17:46:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2014-11-22T17:46:54Z" finished-at="2014-11-22T17:46:54Z">
+      <class name="projectlocal.tests.MatchStateTest">
+        <test-method status="PASS" signature="checkWhetherBallUsedIsSame()[pri:0, instance:projectlocal.tests.MatchStateTest@373a8983]" name="checkWhetherBallUsedIsSame" duration-ms="13" started-at="2014-11-22T23:16:54Z" finished-at="2014-11-22T23:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherBallUsedIsSame -->
+      </class> <!-- projectlocal.tests.MatchStateTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
